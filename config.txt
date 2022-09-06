@@ -7,13 +7,13 @@
 # 模板消息id
 "template_id": "6uOHLJ4gOEn2JZfT0mX8_nAhht7wc76aGBN78PsbTiM",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["ovUzm5saBht4WeMHLRe5QKJ7f2zc,ovUzm5pXBi50AJj2PnyuePYyoB10"],
+"user": ["ovUzm5pXBi50AJj2PnyuePYyoB10"],
 
 # 信息配置
 # 所在省份
-"province": "陕西",
+"province": "青海",
 # 所在城市
-"city": "西安",
+"city": "西宁",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "三三", "birthday": "2001-03-22"},
 # 生日2
